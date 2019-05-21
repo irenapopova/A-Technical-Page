@@ -109,11 +109,11 @@ h6 {
 }
 
 .footer {
-  background: linear-gradient(45deg, #ccc, #eee);
+  background: linear-gradient(45deg, #0c5b86, #eee);
 }
 
 .footer__inner {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #0c5b86;
   margin-top: 2rem;
   padding: 0.85rem 0;
   text-align: center;
